@@ -6,6 +6,8 @@ simple antibot for amino with Amino.py
 
 • __Antibot__: detect if a user entering the community is a bot
 
+• __Antispam__: detect a spam message and delete it or ban the user
+
 • __Logger__: save ndc link of users banned by the bot
 
 ## Downloads
