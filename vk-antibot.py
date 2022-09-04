@@ -13,13 +13,15 @@ from amino import (
 
 clear = lambda: os.system("cls" if os.name == "nt" else "clear")
 
+clear()
+
 
 #--------------------account-info--------------------#
-email = ""
-password = ""
-secret = ""
+email = input("Email?: ")
+password = input("Password?: ")
+secret = input("Secret?: ") if not password else ""
 device="423ae9aef48008707155ba8ca2d258e5a90475821e2e59298731de68e29a4cf40aaaced538db3ee5fd"
-https = ""
+https = input("Https-Proxy?: ")
 #-----------------end-account-info----------------#
 
 
