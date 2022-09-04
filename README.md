@@ -1,7 +1,8 @@
 # simple-antibots
-simple antibot for amino with Amino.py
+simple antibots for amino with Amino.py using python3
 
-## Downloads
+## Download
+
 https://github.com/ViktorSky/simple-antibot/archive/refs/heads/main.zip
 
 ## Functions
