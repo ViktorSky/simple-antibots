@@ -9,4 +9,4 @@ simple antibot for amino with Amino.py
 • __Logger__: save ndc link of users banned by the bot
 
 ## Downloads
-`None`
+https://github.com/ViktorSky/simple-antibot/archive/refs/heads/main.zip
