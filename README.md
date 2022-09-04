@@ -3,7 +3,7 @@ simple antibots for amino with Amino.py using python3
 
 ## Download
 
-https://github.com/ViktorSky/simple-antibot/archive/refs/heads/main.zip
+https://github.com/ViktorSky/simple-antibots/archive/refs/heads/main.zip
 
 ## Functions
 • __Antiraid__: detect and stop a chat raid
