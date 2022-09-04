@@ -1,5 +1,8 @@
-# simple-antibot
+# simple-antibots
 simple antibot for amino with Amino.py
+
+## Downloads
+https://github.com/ViktorSky/simple-antibot/archive/refs/heads/main.zip
 
 ## Functions
 • __Antiraid__: detect and stop a chat raid
@@ -10,5 +13,11 @@ simple antibot for amino with Amino.py
 
 • __Logger__: save ndc link of users banned by the bot
 
-## Downloads
-https://github.com/ViktorSky/simple-antibot/archive/refs/heads/main.zip
+## Commands
+• __help__: Send help text to users
+
+• __antibot__: enable or disable antibot
+
+• __antiraid__: enable or disable antiraid
+
+• __antispam__: enable or disable antispam
